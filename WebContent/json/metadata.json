@@ -1,0 +1,5 @@
+{"pokemon":[
+    {"id": "001", "name":"Bulbasaur", "type":"Grass"}, 
+    {"id": "004", "name":"Squirtle", "type":"Water"}, 
+    {"id": "007", "name":"Charmander", "type":"Fire"} 
+]}
